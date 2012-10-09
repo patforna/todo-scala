@@ -1,0 +1,21 @@
+# IntelliJ
+*.iws
+
+# TextMate
+*.tmproj
+
+# sbt
+target/
+artifacts/
+project/boot/
+lib_managed/
+
+# other stuff
+*.pyc
+.*.swp
+*.log
+*~
+*.class
+
+# mac
+.DS_Store
