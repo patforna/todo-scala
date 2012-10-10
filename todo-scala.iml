@@ -18,6 +18,7 @@
     <orderEntry type="jdk" jdkName="1.6" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="scala-library" level="project" />
+    <orderEntry type="library" name="lib_managed" level="project" />
   </component>
 </module>
 

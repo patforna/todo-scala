@@ -41,8 +41,18 @@
   </component>
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
   </component>
   <component name="libraryTable">
+    <library name="lib_managed">
+      <CLASSES>
+        <root url="file://$PROJECT_DIR$/ide/lib_managed" />
+        <root url="file://$PROJECT_DIR$/ide/lib_managed" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+      <jarDirectory url="file://$PROJECT_DIR$/ide/lib_managed" recursive="false" />
+    </library>
     <library name="scala-compiler">
       <CLASSES>
         <root url="jar:///usr/local/Cellar/scala/2.9.2/libexec/lib/scala-compiler.jar!/" />
